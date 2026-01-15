@@ -12,3 +12,4 @@ D:\JetBrains\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
 D:\JetBrains\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
 D:\JetBrains\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 D:\JetBrains\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+D:\JetBrains\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json

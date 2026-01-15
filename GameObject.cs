@@ -10,4 +10,5 @@ public class GameObject(float x, float y, int n) : Vector2(x, y)
         Console.WriteLine(Pi);
     }
 
+    public void Example(){}
 }
